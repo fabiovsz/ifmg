@@ -1,0 +1,28 @@
+body {
+    background-color: #27272a;
+    color: white;
+}
+
+.imagens {
+    margin: 0 auto;
+    display: block;
+}
+
+#azul {
+    color: #eab308;
+}
+
+.titulo {
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+    font-size: 48px;
+}
+
+body a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body a:hover {
+    color: #eab308;
+}
